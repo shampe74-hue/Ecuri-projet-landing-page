@@ -4,8 +4,8 @@
 
 // Récupération du dossier phpmailer
 require_once __DIR__ . "../../../vendor/phpmailer/src/Exception.php";
-require_once __DIR__ . "../../../vendor/phpmailer/src/PHPmMailler.php";
-require_once __DIR__ . "../../../vendor/phpmailer/src/STMP.php";
+require_once __DIR__ . "../../../vendor/phpmailer/src/PHPMailer.php";
+require_once __DIR__ . "../../../vendor/phpmailer/src/SMTP.php";
 
 // Utilisation des classes
 
